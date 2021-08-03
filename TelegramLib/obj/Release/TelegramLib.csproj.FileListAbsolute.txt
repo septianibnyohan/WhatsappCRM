@@ -1,0 +1,1 @@
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\obj\Release\TelegramLib.csprojAssemblyReference.cache

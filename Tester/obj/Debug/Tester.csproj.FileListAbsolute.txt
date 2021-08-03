@@ -1,0 +1,8 @@
+C:\ProjectDev\ConfiguringSelenium\Tester\bin\Debug\Tester.exe.config
+C:\ProjectDev\ConfiguringSelenium\Tester\bin\Debug\Tester.exe
+C:\ProjectDev\ConfiguringSelenium\Tester\bin\Debug\Tester.pdb
+C:\ProjectDev\ConfiguringSelenium\Tester\obj\Debug\Tester.exe
+C:\ProjectDev\ConfiguringSelenium\Tester\obj\Debug\Tester.pdb
+C:\ProjectDev\ConfiguringSelenium\Tester\bin\Debug\S22.Imap.dll
+C:\ProjectDev\ConfiguringSelenium\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\ProjectDev\ConfiguringSelenium\Tester\obj\Debug\Tester.csproj.CopyComplete

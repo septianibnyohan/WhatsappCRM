@@ -1,0 +1,9 @@
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\bin\Debug\TelegramLib.dll
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\bin\Debug\TelegramLib.pdb
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\bin\Debug\BigMath.dll
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\bin\Debug\Ionic.ZLib.dll
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\bin\Debug\TeleSharp.TL.dll
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\bin\Debug\TLSharp.Core.dll
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\obj\Debug\TelegramLib.csprojResolveAssemblyReference.cache
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\obj\Debug\TelegramLib.dll
+C:\ProjectDev\ConfiguringSelenium\TelegramLib\obj\Debug\TelegramLib.pdb

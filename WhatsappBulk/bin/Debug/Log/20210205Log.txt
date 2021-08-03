@@ -1,0 +1,1306 @@
+======================================== 11:42:29 ========================================
+Initial
+======================================== 11:42:42 ========================================
+Initial
+======================================== 11:43:47 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:48 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:49 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:50 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:51 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:52 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:53 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:54 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:56 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:57 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:58 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:43:59 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:00 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:02 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:03 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:04 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:05 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:07 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:08 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:09 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:10 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:16 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:17 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:18 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:20 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:22 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:24 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:25 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:26 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:27 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:29 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:30 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:31 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:32 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:34 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:35 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:36 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:37 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:38 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:40 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:41 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:42 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:44 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:45 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:46 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:47 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:49 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:50 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:51 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:52 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:54 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:55 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:56 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:57 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:44:58 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:00 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:01 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:02 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:03 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:04 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:05 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:06 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:07 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:09 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:10 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:11 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:12 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:14 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:15 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:16 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:17 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:22 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:23 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:25 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:26 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:27 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:28 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:29 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:30 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:31 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:32 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:35 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:36 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:37 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:46 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:52 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:45:59 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:08 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:14 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:20 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:22 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:23 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:28 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:30 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:31 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:32 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:33 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:43 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:53 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:46:59 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:00 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:01 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:02 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:03 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:09 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:14 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:16 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:17 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:18 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:19 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:20 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:29 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:31 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:32 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:33 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:39 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:40 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:41 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:42 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:43 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:48 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:49 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:51 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:47:52 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:02 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:11 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:22 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:23 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:24 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:33 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:43 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:44 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:45 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:54 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:55 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:56 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:48:57 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:07 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:08 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:09 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:19 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:20 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:27 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:33 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:34 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:35 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:41 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:43 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:44 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:45 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:46 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:52 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:58 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:49:59 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:00 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:09 ========================================
+error : No such host is known
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:15 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:16 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:17 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:27 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:33 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:34 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:35 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:36 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:46 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:50:56 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:51:06 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:51:16 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:51:25 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:51:35 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:51:44 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:51:54 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:00 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:05 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:06 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:08 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:09 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:10 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:11 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:12 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:22 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:23 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:24 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:26 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:32 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:41 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:51 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:52:57 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:06 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:12 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:22 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:31 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:37 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:43 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:52 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:53 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:53:54 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:00 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:10 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:11 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:12 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:21 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:23 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:24 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:25 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:26 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:27 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:29 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:30 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:31 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 11:54:32 ========================================
+error : This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server
+stacktace :    at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at S22.Imap.ImapClient.Connect(String hostname, Int32 port, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256

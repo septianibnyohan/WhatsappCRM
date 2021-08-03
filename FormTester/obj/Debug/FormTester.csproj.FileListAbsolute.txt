@@ -1,0 +1,11 @@
+C:\ProjectDev\ConfiguringSelenium\FormTester\bin\Debug\FormTester.exe.config
+C:\ProjectDev\ConfiguringSelenium\FormTester\bin\Debug\FormTester.exe
+C:\ProjectDev\ConfiguringSelenium\FormTester\bin\Debug\FormTester.pdb
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.csprojAssemblyReference.cache
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.Form1.resources
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.Properties.Resources.resources
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.csproj.GenerateResource.cache
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.exe
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.pdb
+C:\ProjectDev\ConfiguringSelenium\FormTester\bin\Debug\S22.Imap.dll
+C:\ProjectDev\ConfiguringSelenium\FormTester\obj\Debug\FormTester.csproj.CopyComplete

@@ -1,0 +1,1035 @@
+======================================== 15:36:53 ========================================
+Initial
+======================================== 15:37:20 ========================================
+Initial
+======================================== 15:37:51 ========================================
+Initial
+======================================== 15:53:10 ========================================
+Initial
+======================================== 15:57:57 ========================================
+Initial
+======================================== 15:59:11 ========================================
+Initial
+======================================== 15:59:48 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 15:59:55 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:29 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:32 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:35 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:38 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:41 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:44 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:50 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:53 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:56 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:00:59 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:29 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:32 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:35 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:38 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:41 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:44 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:50 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:53 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:56 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:01:59 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:29 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:32 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:35 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:38 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:41 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:44 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:50 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:53 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:56 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:02:59 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:29 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:32 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:35 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:38 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:41 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:44 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:50 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:53 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:56 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:03:59 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:29 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:32 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:35 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:38 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:41 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:44 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:50 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:53 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:56 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:04:59 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:29 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:32 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:35 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:38 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:41 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:44 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:50 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:53 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:56 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:05:59 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:02 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:05 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:08 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:11 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:14 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:17 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:20 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:27 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:30 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:33 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:36 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:39 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:42 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:45 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:48 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:51 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:54 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:06:57 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:00 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:03 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:06 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:09 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:12 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:15 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:18 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:21 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:24 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:27 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:30 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:33 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:36 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:39 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:42 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:45 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:48 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:51 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:54 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:07:57 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:08:03 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:08:06 ========================================
+Preparation Message : test aja
+======================================== 16:09:10 ========================================
+error : Unable to locate element: ._1U1xa
+stacktace :    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByClassName(String className)
+   at OpenQA.Selenium.By.<>c__DisplayClass20_0.<ClassName>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at WhatsappLib.Whatsapp.WaitButtonSendMessage() in D:\ProjectEx\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 247
+======================================== 16:09:25 ========================================
+error : Unable to locate element: ._1U1xa
+stacktace :    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByClassName(String className)
+   at OpenQA.Selenium.By.<>c__DisplayClass20_0.<ClassName>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at WhatsappLib.Whatsapp.WaitButtonSendMessage() in D:\ProjectEx\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 247
+======================================== 16:09:40 ========================================
+error : Unable to locate element: ._1U1xa
+stacktace :    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByClassName(String className)
+   at OpenQA.Selenium.By.<>c__DisplayClass20_0.<ClassName>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at WhatsappLib.Whatsapp.WaitButtonSendMessage() in D:\ProjectEx\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 247
+======================================== 16:09:55 ========================================
+error : Unable to locate element: ._2UL8j > ._3FRCZ
+stacktace :    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)
+   at OpenQA.Selenium.By.<>c__DisplayClass23_0.<CssSelector>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at WhatsappLib.Whatsapp.SendMessage(String number, String message) in D:\ProjectEx\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 80
+======================================== 16:13:10 ========================================
+Initial
+======================================== 16:13:47 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:13:54 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:13:57 ========================================
+Preparation Message : test aja parah
+======================================== 16:14:21 ========================================
+error : Unable to locate element: ._2HE1Z ._1hRBM
+stacktace :    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)
+   at OpenQA.Selenium.By.<>c__DisplayClass23_0.<CssSelector>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at WhatsappLib.Whatsapp.SendMessage(String number, String message) in D:\ProjectEx\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 80
+======================================== 16:14:21 ========================================
+6285778151604 is not valid
+
+======================================== 16:14:21 ========================================
+End Preparation Message
+======================================== 16:14:39 ========================================
+Preparation Message : test aja parah
+======================================== 16:15:32 ========================================
+error : Unable to locate element: ._2HE1Z ._1hRBM
+stacktace :    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)
+   at OpenQA.Selenium.By.<>c__DisplayClass23_0.<CssSelector>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at WhatsappLib.Whatsapp.SendMessage(String number, String message) in D:\ProjectEx\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 80
+======================================== 16:15:37 ========================================
+6285778151604 is not valid
+
+======================================== 16:16:04 ========================================
+End Preparation Message
+======================================== 16:16:11 ========================================
+Preparation Message : test aja parah
+======================================== 16:18:30 ========================================
+Initial
+======================================== 16:18:48 ========================================
+Initial
+======================================== 16:20:09 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:20:16 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:20:22 ========================================
+Preparation Message : test parah
+======================================== 16:20:25 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:21:04 ========================================
+Send message to  Sondari Aja (6285778151604) success
+======================================== 16:21:04 ========================================
+End Preparation Message
+======================================== 16:24:47 ========================================
+Initial
+======================================== 16:25:23 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:30 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:37 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:40 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:43 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:46 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:49 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:52 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:55 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:25:58 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:01 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:04 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:07 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:10 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:13 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:16 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:19 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:26 ========================================
+error : xm001 NO [AUTHENTICATIONFAILED] Authentication failed.
+stacktace :    at S22.Imap.ImapClient.Login(String username, String password, AuthMethod method)
+   at S22.Imap.ImapClient..ctor(String hostname, Int32 port, String username, String password, AuthMethod method, Boolean ssl, RemoteCertificateValidationCallback validate)
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in D:\ProjectEx\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 256
+======================================== 16:26:26 ========================================
+Preparation Message : test aja
+======================================== 16:26:51 ========================================
+Send message to  Sondari Aja (6285778151604) success
+======================================== 16:26:51 ========================================
+End Preparation Message

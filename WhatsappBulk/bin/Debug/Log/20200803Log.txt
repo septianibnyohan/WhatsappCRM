@@ -1,0 +1,102 @@
+======================================== 17:15:49 ========================================
+Initial
+======================================== 17:17:11 ========================================
+Preparation Message : mantap
+
+pisan 
+
+beh
+======================================== 17:17:28 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 19:29:26 ========================================
+Initial
+======================================== 19:47:28 ========================================
+Initial
+======================================== 19:57:03 ========================================
+Halo Admin data kamu sudah kami terima untuk pendaftaran webinar Kelas Persuasi (managed by Digital Growth), detail kamu:
+.
+Nama: Admin
+Nomor Whatsapp: 08170109900
+Alamat email: contactdigitalgrowth@gmail.com
+.
+Seminar Online (Webinar) ini akan diadakan pada:
+.
+- Waktu : Senin 10 Agustus 2020; Start 20.00 WIB
+- Tempat: Channel Youtube Kelas Persuasi
+.
+Keuntungan mengikuti webinar ini adalah anda akan mendapat ilmu "27 Strategi Bangun Bisnis Di Internet Hingga 10x Lipat", terlebih di saat kondisi krisis saat ini. Konsep materi adalah mentoring sehingga Anda akan benar-benar tahu langkah-langkah dan teknik untuk menaikkan kembali profit bisnis anda ke performa tertinggi, bahkan 10x lipat dibandingkan sebelumnya.
+.
+Ini link untuk mengikuti webinar ini:
+https://youtu.be/kP_bon7i1sw
+https://youtu.be/kP_bon7i1sw
+.
+Klik linknya sekarang lalu tekan [Set Reminder] atau [Setel Pengingat]
+.
+Agar ada reminder ke Hape teman2 semua, beberapa saat sebelum live Seminar Online kita nanti.
+.
+*Tidak bisa menggunakan aplikasi YouTube Go, harus menggunakan aplikasi YouTube biasa.
+.
+Staytune
+.
+Gabung grup whatsapp webinar ini untuk ber-jejaring dan berbagi pengalaman seputar membangun dan membesarkan bisnis online:
+.
+https://chat.whatsapp.com/Ds57VE7Pil64RqHO59mrVY
+https://chat.whatsapp.com/Ds57VE7Pil64RqHO59mrVY
+.
+Terima kasih,
+Admin DGid
+.
+========
+.
+Jika tautan diatas tidak bisa di klik, mohon untuk simpan/save terlebih dahulu nomor ini dengan nama "Admin Digital Growth"
+
+
+======================================== 19:57:13 ========================================
+Halo Admin data kamu sudah kami terima untuk pendaftaran webinar Kelas Persuasi (managed by Digital Growth), detail kamu:
+.
+Nama: Admin
+Nomor Whatsapp: 08170109900
+Alamat email: contactdigitalgrowth@gmail.com
+.
+Seminar Online (Webinar) ini akan diadakan pada:
+.
+- Waktu : Senin 10 Agustus 2020; Start 20.00 WIB
+- Tempat: Channel Youtube Kelas Persuasi
+.
+Keuntungan mengikuti webinar ini adalah anda akan mendapat ilmu "27 Strategi Bangun Bisnis Di Internet Hingga 10x Lipat", terlebih di saat kondisi krisis saat ini. Konsep materi adalah mentoring sehingga Anda akan benar-benar tahu langkah-langkah dan teknik untuk menaikkan kembali profit bisnis anda ke performa tertinggi, bahkan 10x lipat dibandingkan sebelumnya.
+.
+Ini link untuk mengikuti webinar ini:
+https://youtu.be/kP_bon7i1sw
+https://youtu.be/kP_bon7i1sw
+.
+Klik linknya sekarang lalu tekan [Set Reminder] atau [Setel Pengingat]
+.
+Agar ada reminder ke Hape teman2 semua, beberapa saat sebelum live Seminar Online kita nanti.
+.
+*Tidak bisa menggunakan aplikasi YouTube Go, harus menggunakan aplikasi YouTube biasa.
+.
+Staytune
+.
+Gabung grup whatsapp webinar ini untuk ber-jejaring dan berbagi pengalaman seputar membangun dan membesarkan bisnis online:
+.
+https://chat.whatsapp.com/Ds57VE7Pil64RqHO59mrVY
+https://chat.whatsapp.com/Ds57VE7Pil64RqHO59mrVY
+.
+Terima kasih,
+Admin DGid
+.
+========
+.
+Jika tautan diatas tidak bisa di klik, mohon untuk simpan/save terlebih dahulu nomor ini dengan nama "Admin Digital Growth"
+
+
+======================================== 19:58:31 ========================================
+error : Cross-thread operation not valid: Control 'txbLog' accessed from a thread other than the thread it was created on.
+stacktace :    at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at WhatsappBulk.FormWhatsappBulk.ProcessMessage(MailMessage m) in C:\ProjectDev\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 361
+   at WhatsappBulk.FormWhatsappBulk.<SyncEmail>b__13_0() in C:\ProjectDev\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 264

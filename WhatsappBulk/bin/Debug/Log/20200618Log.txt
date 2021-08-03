@@ -1,0 +1,137 @@
+======================================== 08:07:27 ========================================
+Initial
+======================================== 08:11:45 ========================================
+Preparation Message : test
+======================================== 08:12:15 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) FAILED
+======================================== 08:12:15 ========================================
+error : no such element: Unable to locate element: {"method":"css selector","selector":".\_3hV1n > span"}
+  (Session info: chrome=83.0.4103.106)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64)
+stacktace :    at WhatsappLib.Whatsapp.SendImage(String number, String message, String filepath) in C:\ProjectDev\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 167
+   at WhatsappBulk.FormWhatsappBulk.btnSendMessage_Click(Object sender, EventArgs e) in C:\ProjectDev\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 110
+======================================== 08:12:47 ========================================
+Sleep 32000
+======================================== 08:13:13 ========================================
+Send message to  Sondari Ari (6287883711444) FAILED
+======================================== 08:13:13 ========================================
+error : no such element: Unable to locate element: {"method":"css selector","selector":".\_3hV1n > span"}
+  (Session info: chrome=83.0.4103.106)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64)
+stacktace :    at WhatsappLib.Whatsapp.SendImage(String number, String message, String filepath) in C:\ProjectDev\ConfiguringSelenium\WhatsappLib\Whatsapp.cs:line 167
+   at WhatsappBulk.FormWhatsappBulk.btnSendMessage_Click(Object sender, EventArgs e) in C:\ProjectDev\ConfiguringSelenium\WhatsappBulk\FormWhatsappBulk.cs:line 110
+======================================== 08:13:13 ========================================
+End Preparation Message
+======================================== 08:13:42 ========================================
+Preparation Message : test
+======================================== 08:14:23 ========================================
+6285778151604 is not valid
+
+======================================== 08:15:01 ========================================
+Sleep 38000
+======================================== 08:15:42 ========================================
+6287883711444 is not valid
+
+======================================== 08:15:42 ========================================
+End Preparation Message
+======================================== 08:43:19 ========================================
+Preparation Message : test
+======================================== 08:50:52 ========================================
+Initial
+======================================== 08:51:27 ========================================
+Preparation Message : test aja
+======================================== 08:51:45 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 08:52:15 ========================================
+Sleep 30000
+======================================== 08:52:29 ========================================
+Initial
+======================================== 08:52:58 ========================================
+Preparation Message : wkwkwwk
+======================================== 08:53:06 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 08:54:03 ========================================
+Sleep 57000
+======================================== 08:54:10 ========================================
+Send message to  Sondari Ari (6287883711444) success
+======================================== 08:54:10 ========================================
+End Preparation Message
+======================================== 11:54:22 ========================================
+Initial
+======================================== 11:56:19 ========================================
+Preparation Message : Halo %nama% data kamu sudah kami terima untuk pendaftaran webinar Kelas Persuasi (managed by Digital Growth), detail kamu:
+
+Nama: %nama%
+Nomor Whatsapp: %whatsapp%
+Alamat email: %email%
+
+Seminar Online (Webinar) ini akan diadakan pada:
+
+- Waktu : Ahad 21 Juni 2020; Start 20.00 WIB
+- Tempat: Channel Youtube Kelas Persuasi
+
+Keuntungan mengikuti webinar ini adalah anda akan mendapat ilmu "47 Strategi Bangun Bisnis Di Internet Hingga 10x Lipat", terlebih di saat kondisi krisis saat ini. Konsep materi adalah mentoring sehingga Anda akan benar-benar tahu langkah-langkah dan teknik untuk menaikkan kembali profit bisnis anda ke performa tertinggi, bahkan 10x lipat dibandingkan sebelumnya.
+
+Ini link untuk mengikuti webinar ini:
+https://youtu.be/YgCfGFXbozc
+https://youtu.be/YgCfGFXbozc
+
+Klik linknya sekarang lalu tekan [Set Reminder] atau [Setel Pengingat]
+
+Agar ada reminder ke Hape teman2 semua, beberapa saat sebelum live Seminar Online kita nanti.
+
+*Tidak bisa menggunakan aplikasi YouTube Go, harus menggunakan aplikasi YouTube biasa.
+
+Staytune
+
+Gabung grup whatsapp webinar ini untuk ber-jejaring dan berbagi pengalaman seputar membangun dan membesarkan bisnis online:
+
+https://chat.whatsapp.com/Dq8bVNYoai91o44JnbZcW3
+https://chat.whatsapp.com/Dq8bVNYoai91o44JnbZcW3
+
+Terima kasih,
+Admin DGid
+
+========
+
+Jika tautan diatas tidak bisa di klik, mohon untuk simpan/save terlebih dahulu nomor ini dengan nama "Admin Digital Growth"
+======================================== 11:56:28 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 11:57:15 ========================================
+Sleep 47000
+======================================== 11:57:21 ========================================
+Send message to  Sondari Ari (6287883711444) success
+======================================== 11:57:42 ========================================
+Sleep 21000
+======================================== 11:57:49 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 11:58:18 ========================================
+Sleep 29000
+======================================== 11:58:24 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 11:58:34 ========================================
+Sleep 10000
+======================================== 11:58:41 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 11:59:01 ========================================
+Sleep 20000
+======================================== 11:59:06 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 12:00:06 ========================================
+Sleep 60000
+======================================== 12:00:13 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 12:00:25 ========================================
+Sleep 12000
+======================================== 12:00:31 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 12:01:05 ========================================
+Sleep 34000
+======================================== 12:01:12 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 12:02:03 ========================================
+Sleep 51000
+======================================== 12:03:05 ========================================
+Send message to  Septian Ibnu Yohan (6285778151604) success
+======================================== 12:03:05 ========================================
+End Preparation Message

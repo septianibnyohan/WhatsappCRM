@@ -1,0 +1,138 @@
+{
+  "id": "32abf9dd-9f99-4519-b551-70641aeed325",
+  "version": "2.0",
+  "name": "whatsapp bot",
+  "url": "https://web.whatsapp.com",
+  "tests": [{
+    "id": "530fcf89-4ef9-4bd6-8325-9dacc8618f18",
+    "name": "test01",
+    "commands": [{
+      "id": "bd1e2417-624e-44f2-b5a0-f01046786bfb",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92cfa64d-3d86-456b-9619-723f44769077",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1048x706",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "550b0868-1b0c-4776-ac86-04134ba4bd4e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.hover .xD91K .\\_19RFN",
+      "targets": [
+        ["css=.hover .xD91K .\\_19RFN", "css:finder"],
+        ["xpath=//div[@id='pane-side']/div/div/div/div/div/div/div[2]/div[2]/div/span/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div/span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a7770d42-9f41-44ff-ba49-1eda742f677e",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b67c7369-fbd3-4161-ae85-6f0e354171fb",
+      "comment": "",
+      "command": "click",
+      "target": "css=.GPmgf > div > span",
+      "targets": [
+        ["css=.GPmgf > div > span", "css:finder"],
+        ["xpath=//div[@id='main']/header/div[3]/div/div[2]/div/span", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "808df6a5-474f-4ba1-b6a7-4a6614ffc3ed",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.\\_3VXiW span",
+      "targets": [
+        ["css=.\\_3VXiW span", "css:finder"],
+        ["xpath=//div[@id='main']/header/div[3]/div/div[2]/span/div/div/ul/li/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e7d40424-5702-4c93-b0a9-44a5b87c7e0a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_3VXiW > .Ijb1Q",
+      "targets": [
+        ["css=.\\_3VXiW > .Ijb1Q", "css:finder"],
+        ["xpath=//div[@id='main']/header/div[3]/div/div[2]/span/div/div/ul/li/button", "xpath:idRelative"],
+        ["xpath=//li/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3e914822-cfce-4482-aaa9-6f6be1e9a82e",
+      "comment": "",
+      "command": "type",
+      "target": "css=.velocity-animating > input",
+      "targets": [
+        ["css=.velocity-animating > input", "css:finder"],
+        ["xpath=(//input[@type='file'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='main']/header/div[3]/div/div[2]/span/div/div/ul/li/button/input", "xpath:idRelative"],
+        ["xpath=//button/input", "xpath:position"]
+      ],
+      "value": "C:\\fakepath\\AMf9X7E.jpg"
+    }, {
+      "id": "d5ecedd5-d24d-4ccc-b7f2-115231ed7483",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_2YgjU > .\\_3u328",
+      "targets": [
+        ["css=.\\_2YgjU > .\\_3u328", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/div/span/div/div[2]/div/div[3]/div/div[2]", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2629f53e-7eb4-464b-ada8-1d381ac0782e",
+      "comment": "",
+      "command": "editContent",
+      "target": "css=.\\_2YgjU > .\\_3u328",
+      "targets": [
+        ["css=.\\_2YgjU > .\\_3u328", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/div/span/div/div[2]/div/div[3]/div/div[2]", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]", "xpath:position"]
+      ],
+      "value": "test aja ya"
+    }, {
+      "id": "c19560a2-4b16-4a7a-8807-e8fdef19106f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_1g8sv > span",
+      "targets": [
+        ["css=.\\_1g8sv > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/span[2]/div/div/span", "xpath:idRelative"],
+        ["xpath=//span[2]/div/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbc86f77-7fb2-45be-95d2-a84fec3964e7",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "a7fe105a-da75-49fa-860a-0f3173e78c48",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["530fcf89-4ef9-4bd6-8325-9dacc8618f18"]
+  }],
+  "urls": ["https://web.whatsapp.com/"],
+  "plugins": []
+}
